@@ -245,7 +245,7 @@ vyper==0.3.3
     # via -r requirements.in
 wcwidth==0.2.5
     # via prompt-toolkit
-web3==5.29.1
+web3==6.0.0
     # via -r requirements.in
 websockets==10.0
     # via web3
