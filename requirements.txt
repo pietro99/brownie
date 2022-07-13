@@ -55,13 +55,10 @@ eth-hash[pycryptodome]==0.3.2
     #   eth-event
     #   eth-utils
     #   web3
-eth-keyfile==0.5.1
     # via eth-account
-eth-keys==0.3.4
     # via
     #   eth-account
     #   eth-keyfile
-eth-rlp==0.2.1
     # via
     #   -r requirements.in
     #   eth-account
@@ -72,7 +69,6 @@ eth-typing==2.3.0
     #   eth-keys
     #   eth-utils
     #   web3
-eth-utils==1.10.0
     # via
     #   -r requirements.in
     #   eip712
@@ -202,7 +198,6 @@ requests==2.27.1
     #   pythx
     #   vvm
     #   web3
-rlp==2.0.1
     # via
     #   -r requirements.in
     #   eth-account
