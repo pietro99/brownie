@@ -330,7 +330,7 @@ wcwidth==0.2.5
     # via
     #   -r requirements.txt
     #   prompt-toolkit
-web3==6.0.0
+web3==6.0.0b3
     # via -r requirements.txt
 websockets==10.0
     # via
