@@ -62,7 +62,6 @@ eth-hash[pycryptodome]==0.3.2
     # via
     #   -r requirements.in
     #   eth-account
-eth-typing==2.3.0
     # via
     #   eip712
     #   eth-abi
