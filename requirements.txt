@@ -40,7 +40,6 @@ dataclassy==0.11.1
     # via eip712
 eip712==0.1.0
     # via -r requirements.in
-eth-abi==2.1.1
     # via
     #   -r requirements.in
     #   eip712
@@ -246,15 +245,7 @@ vyper==0.3.3
 wcwidth==0.2.5
     # via prompt-toolkit
 web3==6.0.0b3
-    # via -r requirements.in
-websockets==10.0
-    # via web3
-wheel==0.37.1
-    # via vyper
-wrapt==1.14.1
-    # via -r requirements.in
-yarl==1.7.2
-    # via aiohttp
+
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
