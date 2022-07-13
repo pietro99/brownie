@@ -107,7 +107,6 @@ iniconfig==1.1.1
     # via pytest
 ipfshttpclient==0.8.0a2
     # via web3
-jsonschema==3.2.0
     # via
     #   mythx-models
     #   web3
